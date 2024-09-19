@@ -45,6 +45,7 @@ dependencies:
   dio: 5.3.3
   provider: 6.0.5
   uuid: 4.1.0
+  json_annotation: ^4.6.0
 
 dev_dependencies:
   flutter_test:
@@ -57,7 +58,8 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^4.0.0
   drift_dev: 2.13.0
-  build_runner: 2.4.6
+  build_runner: ^2.4.5
+  json_serializable: ^6.1.4
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
